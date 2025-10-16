@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+#gridCanvas {
+    border: 1px solid #505050;
+    margin: 20px 0;
+}
+
+#controls {
+    margin-top: 10px;
+    text-align: center;
+}
