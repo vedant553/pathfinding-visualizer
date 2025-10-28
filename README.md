@@ -1,5 +1,8 @@
 # Pathfinding Algorithm Visualizer
 
+### Live Demo Link 1: https://pathfinder-vedant.vercel.app/
+### Live Demo Link 2: https://pathfinder-vedant.netlify.app/
+
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.5.2-green)](https://pygame.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
